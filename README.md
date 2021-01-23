@@ -1,4 +1,4 @@
-# **Egen Data Engineering Interview Task Documentation:**
+# **Data Engineering Task Documentation:**
 
 By Arun Thomas Varughese (athomasv@andrew.cmu.edu)
 
@@ -74,7 +74,7 @@ python Egen.py
 
 
 
-![Picture1](\imgs\Picture1.png)
+![](./imgs/Picture1.png)
 
 
 
@@ -82,7 +82,7 @@ As you can see, we see logs that show that extraction is completed and that url 
 
 
 
-![Picture2](.\imgs\Picture2.png)
+![Picture2](./imgs/Picture2.png)
 
 
 
@@ -94,10 +94,10 @@ Finally, we can see the dataframe loaded from SQLite for NewYork county and its 
 
 A new database is created in the same folder if it is not already present.
 
-![Picture3](.\imgs\Picture3.png)
+![Picture3](./imgs/Picture3.png)
 
 1. For setting up cron job use:
   1. crontab -e
   2. use either bash script or terminal to update crontab as shown in screenshot.
 
-![Picture4](.\imgs\Picture4.png)
+![Picture4](./imgs/Picture4.png)
