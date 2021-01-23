@@ -74,7 +74,7 @@ python Egen.py
 
 
 
-![](.\imgs\Picture1.png)
+![Picture1](\imgs\Picture1.png)
 
 
 
