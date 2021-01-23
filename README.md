@@ -1,6 +1,6 @@
 # **Data Engineering Task Documentation:**
 
-By Arun Thomas Varughese (athomasv@andrew.cmu.edu)
+By Arun Thomas Varughese (https://www.linkedin.com/in/athomasv/)
 
 # Overview:
 
